@@ -26,6 +26,13 @@ class Undergrande1: UIViewController {
         // 背景色を設定.
         self.view.backgroundColor = lightgreen
         
+        // 背景画像の設定
+        let myImage = UIImage(named: "map-new.jpg")
+        let myImageView = UIImageView()
+        myImageView.image = myImage!
+        myImageView.frame = CGRectMake(0, 0, myImage!.size.width, myImage!.size.height)
+        self.view.addSubview(myImageView)
+        
         // ボタンを作成.
         let backButton: UIButton = UIButton(frame: CGRectMake(0,0,70,50))
         backButton.backgroundColor = UIColor.magentaColor();
@@ -36,7 +43,7 @@ class Undergrande1: UIViewController {
         backButton.addTarget(self, action: "MyButton:", forControlEvents: .TouchUpInside)
         self.view.addSubview(backButton);
         // ボタンを作成.
-        let kougakuButton: UIButton = UIButton(frame: CGRectMake(0,0,150,100))
+        let kougakuButton: UIButton = UIButton(frame: CGRectMake(0,0,50,50))
         kougakuButton.backgroundColor =  light       //reisuiButton.layer.masksToBounds = true
         kougakuButton.setTitle("工学部棟", forState: .Normal)
         kougakuButton.layer.cornerRadius = 20.0

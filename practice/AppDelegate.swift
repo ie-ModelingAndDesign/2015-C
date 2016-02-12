@@ -12,8 +12,12 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
-    internal var window: UIWindow?
+    var window: UIWindow?
+    var category : Int = 0
+    var navigationController: UINavigationController?
     
+    var globalStrings01:String? = nil
+    var globalcategory:Int = 0
     /*
     アプリケーション起動時に呼び出されるメソッド.
     */

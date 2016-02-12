@@ -7,8 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E004F6BF1C577E970097942D /* science.swift in Sources */ = {isa = PBXBuildFile; fileRef = E004F6BE1C577E970097942D /* science.swift */; };
+		E004F6C31C58A31A0097942D /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E004F6C21C58A31A0097942D /* 2.jpg */; };
 		E00844F51C1E819A00FE24C8 /* Undergrande1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00844F41C1E819A00FE24C8 /* Undergrande1.swift */; };
-		E00844F71C1E83EC00FE24C8 /* Undergrande2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00844F61C1E83EC00FE24C8 /* Undergrande2.swift */; };
+		E00844F71C1E83EC00FE24C8 /* Undergrade2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00844F61C1E83EC00FE24C8 /* Undergrade2.swift */; };
 		E03C52D71C42371000D61DAE /* PicK.swift in Sources */ = {isa = PBXBuildFile; fileRef = E03C52D61C42371000D61DAE /* PicK.swift */; };
 		E03C52DC1C423A1800D61DAE /* 共通棟2号館1階マップ_9978.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E03C52D91C423A1800D61DAE /* 共通棟2号館1階マップ_9978.jpg */; };
 		E03C52DD1C423A1800D61DAE /* 法文・観光学部マップ(試作)_3596.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E03C52DA1C423A1800D61DAE /* 法文・観光学部マップ(試作)_3596.jpg */; };
@@ -22,8 +24,18 @@
 		E0B624761C088EC500EF3F86 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0B624741C088EC500EF3F86 /* LaunchScreen.xib */; };
 		E0B624821C088EC500EF3F86 /* practiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B624811C088EC500EF3F86 /* practiceTests.swift */; };
 		E0B6248C1C088F6D00EF3F86 /* SecoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B6248B1C088F6D00EF3F86 /* SecoundViewController.swift */; };
+		E0CCC1021C6268820067C95F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1011C6268820067C95F /* 3.jpg */; };
+		E0CCC1041C626A200067C95F /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1031C626A200067C95F /* 4.jpg */; };
+		E0CCC1061C62E06D0067C95F /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1051C62E06D0067C95F /* 5.jpg */; };
+		E0CCC10B1C62E1F00067C95F /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1071C62E1F00067C95F /* 6.jpg */; };
+		E0CCC10C1C62E1F00067C95F /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1081C62E1F00067C95F /* 7.jpg */; };
+		E0CCC10D1C62E1F00067C95F /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1091C62E1F00067C95F /* 8.jpg */; };
+		E0CCC10E1C62E1F00067C95F /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC10A1C62E1F00067C95F /* 9.jpg */; };
+		E0CCC1101C62E4F90067C95F /* zihanki.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0CCC10F1C62E4F90067C95F /* zihanki.swift */; };
+		E0CCC1121C62E5F50067C95F /* マップ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1111C62E5F50067C95F /* マップ.jpg */; };
+		E0CCC1141C62EE990067C95F /* モデリング.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0CCC1131C62EE990067C95F /* モデリング.jpg */; };
 		E0E46B361C436BFA0076BAA8 /* window.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E46B351C436BFA0076BAA8 /* window.swift */; };
-		E0E46B381C436CB70076BAA8 /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E0E46B371C436CB70076BAA8 /* images.jpeg */; };
+		E0E46B381C436CB70076BAA8 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E0E46B371C436CB70076BAA8 /* 1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,14 +49,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E004F6BE1C577E970097942D /* science.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = science.swift; sourceTree = "<group>"; };
+		E004F6C21C58A31A0097942D /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 		E00844F41C1E819A00FE24C8 /* Undergrande1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Undergrande1.swift; sourceTree = "<group>"; };
-		E00844F61C1E83EC00FE24C8 /* Undergrande2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Undergrande2.swift; sourceTree = "<group>"; };
+		E00844F61C1E83EC00FE24C8 /* Undergrade2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Undergrade2.swift; path = ../practice/Undergrade2.swift; sourceTree = "<group>"; };
 		E03C52D61C42371000D61DAE /* PicK.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PicK.swift; sourceTree = "<group>"; };
 		E03C52D91C423A1800D61DAE /* 共通棟2号館1階マップ_9978.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "共通棟2号館1階マップ_9978.jpg"; sourceTree = "<group>"; };
 		E03C52DA1C423A1800D61DAE /* 法文・観光学部マップ(試作)_3596.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "法文・観光学部マップ(試作)_3596.jpg"; sourceTree = "<group>"; };
 		E03C52DB1C423A1800D61DAE /* 理学部見取り図(仮)_6486.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "理学部見取り図(仮)_6486.jpg"; sourceTree = "<group>"; };
 		E03C52DF1C423CDF00D61DAE /* PicKO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PicKO.swift; path = ../PicKO.swift; sourceTree = "<group>"; };
-		E08581CB1C1953EB00207C19 /* Undergrade.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Undergrade.swift; sourceTree = "<group>"; };
+		E08581CB1C1953EB00207C19 /* Undergrade.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Undergrade.swift; path = ../practice/Undergrade.swift; sourceTree = "<group>"; };
 		E0B624661C088EC500EF3F86 /* practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0B6246A1C088EC500EF3F86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0B6246B1C088EC500EF3F86 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -56,8 +70,18 @@
 		E0B624801C088EC500EF3F86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0B624811C088EC500EF3F86 /* practiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practiceTests.swift; sourceTree = "<group>"; };
 		E0B6248B1C088F6D00EF3F86 /* SecoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecoundViewController.swift; sourceTree = "<group>"; };
-		E0E46B351C436BFA0076BAA8 /* window.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = window.swift; sourceTree = "<group>"; };
-		E0E46B371C436CB70076BAA8 /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		E0CCC1011C6268820067C95F /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		E0CCC1031C626A200067C95F /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		E0CCC1051C62E06D0067C95F /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		E0CCC1071C62E1F00067C95F /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		E0CCC1081C62E1F00067C95F /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		E0CCC1091C62E1F00067C95F /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		E0CCC10A1C62E1F00067C95F /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		E0CCC10F1C62E4F90067C95F /* zihanki.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = zihanki.swift; path = practiceTests/zihanki.swift; sourceTree = SOURCE_ROOT; };
+		E0CCC1111C62E5F50067C95F /* マップ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "マップ.jpg"; sourceTree = "<group>"; };
+		E0CCC1131C62EE990067C95F /* モデリング.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "モデリング.jpg"; path = "../mode/モデリング.jpg"; sourceTree = "<group>"; };
+		E0E46B351C436BFA0076BAA8 /* window.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = window.swift; path = ../practice/window.swift; sourceTree = "<group>"; };
+		E0E46B371C436CB70076BAA8 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,9 +105,18 @@
 		E03C52D81C423A1800D61DAE /* mode */ = {
 			isa = PBXGroup;
 			children = (
-				E0E46B371C436CB70076BAA8 /* images.jpeg */,
+				E0E46B371C436CB70076BAA8 /* 1.jpeg */,
 				E03C52D91C423A1800D61DAE /* 共通棟2号館1階マップ_9978.jpg */,
+				E0CCC1011C6268820067C95F /* 3.jpg */,
+				E0CCC1051C62E06D0067C95F /* 5.jpg */,
+				E0CCC1071C62E1F00067C95F /* 6.jpg */,
+				E0CCC1081C62E1F00067C95F /* 7.jpg */,
+				E0CCC1091C62E1F00067C95F /* 8.jpg */,
+				E0CCC10A1C62E1F00067C95F /* 9.jpg */,
+				E0CCC1031C626A200067C95F /* 4.jpg */,
+				E0CCC1111C62E5F50067C95F /* マップ.jpg */,
 				E03C52DA1C423A1800D61DAE /* 法文・観光学部マップ(試作)_3596.jpg */,
+				E004F6C21C58A31A0097942D /* 2.jpg */,
 				E03C52DB1C423A1800D61DAE /* 理学部見取り図(仮)_6486.jpg */,
 			);
 			path = mode;
@@ -114,14 +147,13 @@
 				E0B6246B1C088EC500EF3F86 /* AppDelegate.swift */,
 				E0B6246D1C088EC500EF3F86 /* FirstViewController.swift */,
 				E0B6248B1C088F6D00EF3F86 /* SecoundViewController.swift */,
-				E0E46B351C436BFA0076BAA8 /* window.swift */,
 				E00844F41C1E819A00FE24C8 /* Undergrande1.swift */,
-				E08581CB1C1953EB00207C19 /* Undergrade.swift */,
-				E00844F61C1E83EC00FE24C8 /* Undergrande2.swift */,
 				E03C52D61C42371000D61DAE /* PicK.swift */,
 				E03C52DF1C423CDF00D61DAE /* PicKO.swift */,
+				E004F6BE1C577E970097942D /* science.swift */,
 				E0B6246F1C088EC500EF3F86 /* Main.storyboard */,
 				E0B624721C088EC500EF3F86 /* Images.xcassets */,
+				E0CCC1131C62EE990067C95F /* モデリング.jpg */,
 				E0B624741C088EC500EF3F86 /* LaunchScreen.xib */,
 				E0B624691C088EC500EF3F86 /* Supporting Files */,
 			);
@@ -139,6 +171,10 @@
 		E0B6247E1C088EC500EF3F86 /* practiceTests */ = {
 			isa = PBXGroup;
 			children = (
+				E0E46B351C436BFA0076BAA8 /* window.swift */,
+				E0CCC10F1C62E4F90067C95F /* zihanki.swift */,
+				E00844F61C1E83EC00FE24C8 /* Undergrade2.swift */,
+				E08581CB1C1953EB00207C19 /* Undergrade.swift */,
 				E0B624811C088EC500EF3F86 /* practiceTests.swift */,
 				E0B6247F1C088EC500EF3F86 /* Supporting Files */,
 			);
@@ -233,12 +269,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0CCC1061C62E06D0067C95F /* 5.jpg in Resources */,
+				E0CCC1021C6268820067C95F /* 3.jpg in Resources */,
 				E0B624711C088EC500EF3F86 /* Main.storyboard in Resources */,
+				E0CCC10E1C62E1F00067C95F /* 9.jpg in Resources */,
 				E0B624761C088EC500EF3F86 /* LaunchScreen.xib in Resources */,
 				E03C52DE1C423A1800D61DAE /* 理学部見取り図(仮)_6486.jpg in Resources */,
-				E0E46B381C436CB70076BAA8 /* images.jpeg in Resources */,
+				E0E46B381C436CB70076BAA8 /* 1.jpeg in Resources */,
+				E0CCC10D1C62E1F00067C95F /* 8.jpg in Resources */,
+				E0CCC10B1C62E1F00067C95F /* 6.jpg in Resources */,
 				E03C52DC1C423A1800D61DAE /* 共通棟2号館1階マップ_9978.jpg in Resources */,
 				E0B624731C088EC500EF3F86 /* Images.xcassets in Resources */,
+				E004F6C31C58A31A0097942D /* 2.jpg in Resources */,
+				E0CCC10C1C62E1F00067C95F /* 7.jpg in Resources */,
+				E0CCC1041C626A200067C95F /* 4.jpg in Resources */,
 				E03C52DD1C423A1800D61DAE /* 法文・観光学部マップ(試作)_3596.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -247,6 +291,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0CCC1141C62EE990067C95F /* モデリング.jpg in Resources */,
+				E0CCC1121C62E5F50067C95F /* マップ.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +305,9 @@
 			files = (
 				E08581CC1C1953EB00207C19 /* Undergrade.swift in Sources */,
 				E0B6248C1C088F6D00EF3F86 /* SecoundViewController.swift in Sources */,
-				E00844F71C1E83EC00FE24C8 /* Undergrande2.swift in Sources */,
+				E00844F71C1E83EC00FE24C8 /* Undergrade2.swift in Sources */,
 				E0B6246E1C088EC500EF3F86 /* FirstViewController.swift in Sources */,
+				E004F6BF1C577E970097942D /* science.swift in Sources */,
 				E03C52E01C423CDF00D61DAE /* PicKO.swift in Sources */,
 				E0B6246C1C088EC500EF3F86 /* AppDelegate.swift in Sources */,
 				E00844F51C1E819A00FE24C8 /* Undergrande1.swift in Sources */,
@@ -273,6 +320,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0CCC1101C62E4F90067C95F /* zihanki.swift in Sources */,
 				E0B624821C088EC500EF3F86 /* practiceTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

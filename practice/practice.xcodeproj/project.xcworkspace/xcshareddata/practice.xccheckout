@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D78E638F-E049-4E27-861E-3A6AF75A6F9D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B40C6695DE4AAAF98FBB5D89017954DA939DBB21</key>
+		<string>github.com:ie-ModelingAndDesign/2015-C.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B40C6695DE4AAAF98FBB5D89017954DA939DBB21</key>
+		<string>2015-C/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ie-ModelingAndDesign/2015-C.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B40C6695DE4AAAF98FBB5D89017954DA939DBB21</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B40C6695DE4AAAF98FBB5D89017954DA939DBB21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>2015-C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
